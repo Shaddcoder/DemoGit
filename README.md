@@ -3,4 +3,5 @@ This project is an Iot project using **MCU Esp8266 CH3**
 *3 Sensors: + Dht11.
             + Light Sensor.
             + Mq9 Sensor.
-*Device: Servo, Led, Fan.
+*Device: Servo, Led, Fan, and Buzzer.
+*Display: LCD16x2.
